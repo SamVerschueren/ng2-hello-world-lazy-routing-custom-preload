@@ -1,5 +1,7 @@
 # ng2-hello-world-lazy-routing-preload
 
+[![Build Status: Linux](https://travis-ci.org/SamVerschueren/ng2-hello-world-lazy-routing-custom-preload.svg?branch=master)](https://travis-ci.org/SamVerschueren/ng2-hello-world-lazy-routing-custom-preload) [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/37135gs2e5l5gahx/branch/master?svg=true)](https://ci.appveyor.com/project/SamVerschueren/ng2-hello-world-lazy-routing-custom-preload/branch/master)
+
 > Angular2 Hello World lazy routing application with custom preloading
 
 
